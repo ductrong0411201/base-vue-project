@@ -1,4 +1,6 @@
 
+
+npx rimraf ./.git
 # install
 yarn
 
